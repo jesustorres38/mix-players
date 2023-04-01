@@ -48,7 +48,7 @@ const Random = () => {
               name='player'
               className='form-control'
               id='player'
-              placeholder='Players names'
+              placeholder='Copy players from whatsapp group!'
               rows={14}
               onChange={(e) => setList(e.target.value)}
             />
